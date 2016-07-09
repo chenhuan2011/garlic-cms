@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 23:50:48 CST 2015
+maven-resources-plugin-2.6.pom>nexus-mirror=
+maven-resources-plugin-2.6.jar>nexus-mirror=
+maven-resources-plugin-2.6.pom>oschina-repos=
+maven-resources-plugin-2.6.jar>central=
+maven-resources-plugin-2.6.pom>central=

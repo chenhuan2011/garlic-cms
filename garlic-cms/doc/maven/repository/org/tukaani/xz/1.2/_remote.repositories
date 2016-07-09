@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 23:51:32 CST 2015
+xz-1.2.jar>central=
+xz-1.2.pom>central=
+xz-1.2.pom>nexus-mirror=
+xz-1.2.pom>oschina-repos=
+xz-1.2.jar>nexus-mirror=
+xz-1.2.jar>oschina-repos=

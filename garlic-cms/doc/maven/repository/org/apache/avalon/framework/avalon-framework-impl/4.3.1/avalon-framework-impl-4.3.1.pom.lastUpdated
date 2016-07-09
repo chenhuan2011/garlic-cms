@@ -1,0 +1,17 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 21:58:15 CST 2015
+http\://download.java.net/maven/2/.lastUpdated=1438091847394
+@default-https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1438091864066
+http\://repo.maven.apache.org/maven2/.lastUpdated=1438091862086
+https\://maven.alfresco.com/nexus/content/groups/public/.error=Could not transfer artifact org.apache.avalon.framework\:avalon-framework-impl\:pom\:4.3.1 from/to activiti-repos (https\://maven.alfresco.com/nexus/content/groups/public)\: sun.security.validator.ValidatorException\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target
+https\://raw.github.com/thinkgem/repository/master/.error=
+http\://download.java.net/maven/2/.error=
+http\://repo.spring.io/release/.error=
+http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1438091876466
+https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1438091876203
+http\://repo.spring.io/release/.lastUpdated=1438091861320
+https\://raw.github.com/thinkgem/repository/master/.lastUpdated=1438091879546
+http\://repo1.maven.org/maven2/.lastUpdated=1438091862718
+http\://maven.restlet.org/.error=
+http\://git.oschina.net/thinkgem/repos/raw/master/.error=
+http\://maven.restlet.org/.lastUpdated=1438091895306

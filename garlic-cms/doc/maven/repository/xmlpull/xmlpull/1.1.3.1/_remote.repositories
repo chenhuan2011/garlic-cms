@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 23:46:02 CST 2015
+xmlpull-1.1.3.1.jar>central-repos2=
+xmlpull-1.1.3.1.pom>central-repos=
+xmlpull-1.1.3.1.jar>central-repos=
+xmlpull-1.1.3.1.pom>nexus-mirror=
+xmlpull-1.1.3.1.jar>activiti-repos2=
+xmlpull-1.1.3.1.jar>nexus-mirror=
+xmlpull-1.1.3.1.pom>activiti-repos2=
+xmlpull-1.1.3.1.pom>oschina-repos=
+xmlpull-1.1.3.1.jar>oschina-repos=
+xmlpull-1.1.3.1.pom>central-repos2=

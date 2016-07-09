@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 17:57:29 CST 2015
+maven-install-plugin-2.4.pom>nexus-mirror=
+maven-install-plugin-2.4.jar>central=
+maven-install-plugin-2.4.jar>nexus-mirror=

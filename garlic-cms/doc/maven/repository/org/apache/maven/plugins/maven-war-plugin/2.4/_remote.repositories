@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 23:50:53 CST 2015
+maven-war-plugin-2.4.pom>oschina-repos=
+maven-war-plugin-2.4.pom>nexus-mirror=
+maven-war-plugin-2.4.pom>central=
+maven-war-plugin-2.4.jar>central=
+maven-war-plugin-2.4.jar>nexus-mirror=

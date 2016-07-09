@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 23:51:32 CST 2015
+maven-filtering-1.1.jar>central=
+maven-filtering-1.1.pom>nexus-mirror=
+maven-filtering-1.1.pom>oschina-repos=
+maven-filtering-1.1.pom>central=
+maven-filtering-1.1.jar>nexus-mirror=
+maven-filtering-1.1.jar>oschina-repos=

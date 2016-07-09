@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 23:46:02 CST 2015
+log4j-1.2.17.pom>nexus-mirror=
+log4j-1.2.17.pom>central=
+log4j-1.2.17.jar>nexus-mirror=
+log4j-1.2.17.jar>oschina-repos=
+log4j-1.2.17.jar>activiti-repos2=
+log4j-1.2.17.jar>central-repos=
+log4j-1.2.17.jar>central-repos2=

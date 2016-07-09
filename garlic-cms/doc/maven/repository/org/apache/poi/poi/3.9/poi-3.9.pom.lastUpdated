@@ -1,0 +1,15 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 22:20:41 CST 2015
+http\://download.java.net/maven/2/.lastUpdated=1438093223603
+@default-https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1438093233795
+http\://repo.maven.apache.org/maven2/.lastUpdated=1438093226159
+https\://maven.alfresco.com/nexus/content/groups/public/.error=Could not transfer artifact org.apache.poi\:poi\:pom\:3.9 from/to activiti-repos (https\://maven.alfresco.com/nexus/content/groups/public)\: sun.security.validator.ValidatorException\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target
+https\://raw.github.com/thinkgem/repository/master/.error=
+http\://download.java.net/maven/2/.error=
+http\://repo.spring.io/release/.error=
+http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1438093238356
+https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1438093238130
+http\://repo.spring.io/release/.lastUpdated=1438093224410
+https\://raw.github.com/thinkgem/repository/master/.lastUpdated=1438093241714
+http\://repo1.maven.org/maven2/.lastUpdated=1438093227338
+http\://git.oschina.net/thinkgem/repos/raw/master/.error=

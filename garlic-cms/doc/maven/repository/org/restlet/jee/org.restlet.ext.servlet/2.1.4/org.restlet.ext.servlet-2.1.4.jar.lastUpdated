@@ -1,0 +1,17 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 23:46:01 CST 2015
+http\://maven.oschina.net/content/groups/public/.error=Could not transfer artifact org.restlet.jee\:org.restlet.ext.servlet\:jar\:2.1.4 from/to oschina-repos (http\://maven.oschina.net/content/groups/public)\: Failed to transfer http\://maven.oschina.net/content/groups/public/org/restlet/jee/org.restlet.ext.servlet/2.1.4/org.restlet.ext.servlet-2.1.4.jar. Error code 502, Bad Gateway
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1438098100161
+http\://localhost\:8081/nexus/content/groups/public/.lastUpdated=1438072170660
+http\://download.java.net/maven/2/.lastUpdated=1438094862641
+http\://repo.maven.apache.org/maven2/.lastUpdated=1438095220980
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://repo.spring.io/release/.error=
+http\://download.java.net/maven/2/.error=
+http\://repo.maven.apache.org/maven2/.error=
+https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1438098361742
+http\://repo.spring.io/release/.lastUpdated=1438094963378
+@default-http\://maven.oschina.net/content/groups/public/.lastUpdated=1438094728481
+http\://repo1.maven.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1438097156359
+http\://localhost\:8081/nexus/content/groups/public/.error=

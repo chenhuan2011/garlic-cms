@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 23:46:01 CST 2015
+commons-logging-1.0.4.jar>central-repos2=
+commons-logging-1.0.4.pom>central-repos2=
+commons-logging-1.0.4.pom>central-repos=
+commons-logging-1.0.4.pom>nexus-mirror=
+commons-logging-1.0.4.jar>central-repos=
+commons-logging-1.0.4.jar>activiti-repos2=
+commons-logging-1.0.4.jar>nexus-mirror=
+commons-logging-1.0.4.pom>oschina-repos=
+commons-logging-1.0.4.jar>oschina-repos=

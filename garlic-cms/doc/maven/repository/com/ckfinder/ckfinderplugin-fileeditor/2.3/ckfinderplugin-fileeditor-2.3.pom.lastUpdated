@@ -1,0 +1,19 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 22:27:00 CST 2015
+http\://maven.oschina.net/content/groups/public/.error=
+http\://localhost\:8081/nexus/content/groups/public/.lastUpdated=1438072161894
+http\://download.java.net/maven/2/.lastUpdated=1438093607774
+@default-https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1438093615122
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1438093606941
+http\://repo.maven.apache.org/maven2/.lastUpdated=1438093609327
+https\://maven.alfresco.com/nexus/content/groups/public/.error=Could not transfer artifact com.ckfinder\:ckfinderplugin-fileeditor\:pom\:2.3 from/to activiti-repos (https\://maven.alfresco.com/nexus/content/groups/public)\: sun.security.validator.ValidatorException\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target
+http\://repo.spring.io/release/.error=
+http\://download.java.net/maven/2/.error=
+http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1438093620763
+http\://repo.maven.apache.org/maven2/.error=
+https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1438093620368
+http\://repo.spring.io/release/.lastUpdated=1438093608454
+http\://repo1.maven.org/maven2/.lastUpdated=1438093610092
+http\://repo1.maven.org/maven2/.error=
+http\://localhost\:8081/nexus/content/groups/public/.error=
+https\://app.camunda.com/nexus/content/groups/public/.error=

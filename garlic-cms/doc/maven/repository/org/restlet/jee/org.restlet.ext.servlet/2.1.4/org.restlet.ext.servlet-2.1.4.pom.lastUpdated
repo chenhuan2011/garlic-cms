@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 17:59:50 CST 2015
+http\://localhost\:8081/nexus/content/groups/public/.lastUpdated=1438072151685
+http\://repo.maven.apache.org/maven2/.lastUpdated=1438077583615
+http\://localhost\:8081/nexus/content/groups/public/.error=
+http\://repo.maven.apache.org/maven2/.error=
+http\://maven.restlet.org/.lastUpdated=1438077590464

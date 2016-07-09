@@ -1,0 +1,19 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 22:26:08 CST 2015
+http\://maven.oschina.net/content/groups/public/.error=
+http\://localhost\:8081/nexus/content/groups/public/.lastUpdated=1438072158422
+http\://download.java.net/maven/2/.lastUpdated=1438093558113
+@default-https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1438093563540
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1438093556765
+http\://repo.maven.apache.org/maven2/.lastUpdated=1438093560432
+https\://maven.alfresco.com/nexus/content/groups/public/.error=Could not transfer artifact org.wltea\:analyzer\:pom\:2012_u6 from/to activiti-repos (https\://maven.alfresco.com/nexus/content/groups/public)\: sun.security.validator.ValidatorException\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target
+http\://repo.spring.io/release/.error=
+http\://download.java.net/maven/2/.error=
+http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1438093568162
+http\://repo.maven.apache.org/maven2/.error=
+https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1438093567754
+http\://repo.spring.io/release/.lastUpdated=1438093560132
+http\://repo1.maven.org/maven2/.lastUpdated=1438093560677
+http\://repo1.maven.org/maven2/.error=
+http\://localhost\:8081/nexus/content/groups/public/.error=
+https\://app.camunda.com/nexus/content/groups/public/.error=

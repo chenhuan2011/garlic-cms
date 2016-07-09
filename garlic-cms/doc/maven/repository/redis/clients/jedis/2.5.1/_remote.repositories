@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 23:46:01 CST 2015
+jedis-2.5.1.pom>nexus-mirror=
+jedis-2.5.1.jar>nexus-mirror=
+jedis-2.5.1.jar>oschina-repos=
+jedis-2.5.1.jar>activiti-repos2=
+jedis-2.5.1.pom>central=
+jedis-2.5.1.jar>central-repos=
+jedis-2.5.1.jar>central-repos2=

@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 23:51:32 CST 2015
+maven-archiver-2.5.pom>oschina-repos=
+maven-archiver-2.5.jar>oschina-repos=
+maven-archiver-2.5.jar>central=
+maven-archiver-2.5.pom>central=
+maven-archiver-2.5.pom>nexus-mirror=
+maven-archiver-2.5.jar>nexus-mirror=

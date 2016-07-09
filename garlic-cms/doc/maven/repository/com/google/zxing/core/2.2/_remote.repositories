@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 23:46:02 CST 2015
+core-2.2.jar>central-repos=
+core-2.2.jar>central-repos2=
+core-2.2.pom>oschina-repos=
+core-2.2.jar>oschina-repos=
+core-2.2.pom>nexus-mirror=
+core-2.2.jar>activiti-repos2=
+core-2.2.pom>activiti-repos2=
+core-2.2.pom>central-repos2=
+core-2.2.jar>nexus-mirror=
+core-2.2.pom>central-repos=

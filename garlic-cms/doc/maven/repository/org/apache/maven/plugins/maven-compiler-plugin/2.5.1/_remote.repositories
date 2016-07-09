@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 17:57:31 CST 2015
+maven-compiler-plugin-2.5.1.pom>nexus-mirror=
+maven-compiler-plugin-2.5.1.pom>central=
+maven-compiler-plugin-2.5.1.jar>nexus-mirror=
+maven-compiler-plugin-2.5.1.jar>central=

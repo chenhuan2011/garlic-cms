@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 18:00:58 CST 2015
+https\://source.db4o.com/maven/.error=Could not transfer artifact org.apache.commons\:commons-parent\:pom\:16 from/to maven-db4o (https\://source.db4o.com/maven/)\: Connection timed out\: connect
+http\://download.java.net/maven/2/.lastUpdated=1438077637935
+http\://download.java.net/maven/2/.error=
+@default-https\://source.db4o.com/maven/.lastUpdated=1438077658968
+http\://download.java.net/maven/1/.error=Could not transfer artifact org.apache.commons\:commons-parent\:pom\:16 from/to maven1-java (http\://download.java.net/maven/1)\: No connector available to access repository maven1-java (http\://download.java.net/maven/1) of type legacy using the available factories AetherRepositoryConnectorFactory, WagonRepositoryConnectorFactory
+@legacy-http\://download.java.net/maven/1/.lastUpdated=1438077637935
+http\://repo1.maven.org/maven2/.lastUpdated=1438077637092
+http\://maven.restlet.org/.error=
+http\://maven.restlet.org/.lastUpdated=1438077636921

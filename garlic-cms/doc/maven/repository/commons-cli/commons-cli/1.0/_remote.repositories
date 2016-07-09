@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 28 23:51:32 CST 2015
+commons-cli-1.0.pom>nexus-mirror=
+commons-cli-1.0.jar>nexus-mirror=
+commons-cli-1.0.jar>central=
+commons-cli-1.0.pom>central=
+commons-cli-1.0.jar>oschina-repos=
